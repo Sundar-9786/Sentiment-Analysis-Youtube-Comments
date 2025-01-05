@@ -1,0 +1,6 @@
+pandas
+matplotlib
+seaborn
+nltk
+google-api-python-client
+transformers
